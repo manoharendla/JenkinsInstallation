@@ -16,3 +16,6 @@ Steps for installing Jenkins
  > java -jar jenkins.war .
 2. This installs jenkins and it will be listening on port 8080
 3. Link to [Installation log](docs/log)
+
+## Live Demo:
+[![Jenkins Demo](https://img.youtube.com/vi/Lk6KXYOzXlI/0.jpg)](https://www.youtube.com/watch?v=Lk6KXYOzXlI)
