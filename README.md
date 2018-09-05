@@ -13,6 +13,6 @@ Steps for installing Jenkins
 
 ## Installing Jenkins
 1. execute 
- > java -jar jenkins.war --httpPort=9090
-2. This installs jenkins and it will be listening on port 9090
+ > java -jar jenkins.war .
+2. This installs jenkins and it will be listening on port 8080
 3. Link to [Installation log](docs/log)
